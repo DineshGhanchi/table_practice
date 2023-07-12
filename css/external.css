@@ -1,0 +1,42 @@
+h1{
+    font-size: 50px;
+    color: blue;
+    background-color: rgb(255, 0, 0);
+    font-weight: 900;
+    border: 1px solid rgb(20, 220, 80);
+}
+h2{
+    font-size: 50px;
+    color: rgb(0, 255, 85);
+    background-color: rgb(255, 0, 98);
+    font-weight: 900;
+    border: 1px solid rgba(220, 20, 20, 0.774);
+}
+h3{
+    font-size: 50px;
+    color: blue;
+    background-color: chartreuse;
+    font-weight: 900;
+    border: 1px solid crimson;
+}
+h4{
+    font-size: 50px;
+    color: blue;
+    background-color: chartreuse;
+    font-weight: 900;
+    border: 1px solid crimson;
+}
+h5{
+    font-size: 50px;
+    color: blue;
+    background-color: chartreuse;
+    font-weight: 900;
+    border: 1px solid crimson;
+}
+h6{
+    font-size: 50px;
+    color: blue;
+    background-color: chartreuse;
+    font-weight: 900;
+    border: 1px solid crimson;
+}
